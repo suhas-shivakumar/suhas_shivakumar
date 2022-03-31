@@ -14,7 +14,7 @@ My name is Suhas Shivakumar and I'm a data scientist/fullstack developer with mo
 <img style="margin: 10px" src="images/html5-icon.svg" alt="HTML5" height="50" /> 
 <img style="margin: 10px" src="images/javascript-icon.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="images/react-icon.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="images/angular-icon.svg" alt="Angular" height="50" /> 
+<img style="margin: 10px" src="images/angular-icon.png" alt="Angular" height="50" /> 
 <img style="margin: 10px" src="images/bootstrap-icon.svg" alt="Bootstrap" height="50" />
 </div>
 
