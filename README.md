@@ -1,7 +1,7 @@
 
 # Hey folks! <img src="images/wave.gif" width="30px">
 
-My name is Suhas Shivakumar and I'm a data scientist/fullstack developer with more than 5 years of experience. I'm based in Bengaluru and currently working in Amadeus Software Labs.
+My name is Suhas Shivakumar and I'm a fullstack developer/ data scientist with more than 8 years of experience. I'm based in Bengaluru and currently working in Amadeus Software Labs.
 
 ## Skill Sets  
 <table><tr><td valign="top" width="33%">
